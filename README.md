@@ -1,18 +1,18 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kendrick+Ferguson!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shehbaz+Khanani!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from USA</h3>
+<h3 align="center">A passionate software developer from Pakistan</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **koretechx**
+ 🔭 I’m currently working on **Kore Digital**
  
- 🌱 I’m currently learning **Data Science**
+ 🌱 I’m currently learning **Artificial Intelligence**
 
 💬 Ask me about **Node.js, Nextjs, SQL... or anything**
 
@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="kendrick.ferguson@koretechx.com">
+  <a href="shehbazkhanani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 <!--   <a href="https://www.linkedin.com/in/kendrickferguson/" target="_blank">
